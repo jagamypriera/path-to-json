@@ -1,0 +1,17 @@
+{
+  "name": "path-to-json",
+  "version": "1.0.4",
+  "description": "Convert /path/to/file to {path:{to:{file:{}}}}",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Convert",
+    "/path/to/file",
+    "to",
+    "{path:{to:{file:{}}}}"
+  ],
+  "author": "Jaga My Priera",
+  "license": "ISC"
+}
