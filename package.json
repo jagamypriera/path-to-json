@@ -1,6 +1,7 @@
 {
   "name": "path-to-json",
-  "version": "1.0.4",
+  "homepage": "https://github.com/jagamypriera/path-to-json",
+  "version": "1.0.5",
   "description": "Convert /path/to/file to {path:{to:{file:{}}}}",
   "main": "lib/main.js",
   "scripts": {
@@ -13,5 +14,9 @@
     "{path:{to:{file:{}}}}"
   ],
   "author": "Jaga My Priera",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jagamypriera/path-to-json.git"
+  }
 }
